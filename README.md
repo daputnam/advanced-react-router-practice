@@ -34,7 +34,7 @@
 *x Profile.js 
     * Change the hard coded 0 with the value from the parameter id
 * Dashboard.js
-*?? Marquee
+* Marquee
     * replace the hard coded "hello" with the text parameter from the route
 
 ### SideNav
